@@ -1,0 +1,70 @@
+# ================================
+# Android / Gradle
+# ================================
+
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Gradle wrapper logs
+gradle-app.setting
+
+# ================================
+# IDE files
+# ================================
+
+.idea/
+*.iml
+
+# Android Studio specific
+.navigation/
+captures/
+
+# ================================
+# Kotlin
+# ================================
+
+.kotlin/
+
+# ================================
+# OS files
+# ================================
+
+.DS_Store
+Thumbs.db
+
+# ================================
+# Logs
+# ================================
+
+*.log
+
+# ================================
+# Generated files
+# ================================
+
+app/release/
+app/debug/
+
+# ================================
+# Keystore (IMPORTANT)
+# ================================
+
+*.jks
+*.keystore
+
+# ================================
+# Build cache
+# ================================
+
+.cxx/
+.externalNativeBuild/
+
+# ================================
+# Compose preview cache
+# ================================
+
+compose_compiler/
